@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Usmita Surani Putri**.<br>
 
-Saya seorang mahasiswa S1 pada jurusan Matematika.<br>
+Saya seorang lulusan baru S1 pada jurusan Matematika.<br>
 
 Saya tertarik untuk mengembangkan kemampuan saya pada bidang IT.<br>
 
